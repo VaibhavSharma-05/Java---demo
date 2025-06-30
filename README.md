@@ -1,5 +1,6 @@
 # Java---demo
 hey! Vaibhav this side
-br>
-it's my fisrt Git repository.
+<br>
+recently! Starts a new journey to getting best of me.
+
 
